@@ -1,0 +1,16 @@
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csprojAssemblyReference.cache
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.AssemblyInfoInputs.cache
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.AssemblyInfo.cs
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csproj.CoreCompileInputs.cache
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.exe
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.deps.json
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.runtimeconfig.json
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.runtimeconfig.dev.json
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.dll
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.pdb
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.csproj.CopyComplete
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.dll
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.pdb
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2\obj\Debug\netcoreapp3.1\SalaoT2.genruntimeconfig.cache

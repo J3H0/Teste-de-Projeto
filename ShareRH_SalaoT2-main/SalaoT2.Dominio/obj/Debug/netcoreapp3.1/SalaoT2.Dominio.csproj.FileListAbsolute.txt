@@ -1,0 +1,9 @@
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.deps.json
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.csprojAssemblyReference.cache
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.AssemblyInfoInputs.cache
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.AssemblyInfo.cs
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\jessh\OneDrive\Área de Trabalho\.NET C#\Aula 30-01-2021\ShareRH_SalaoT2-main\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
